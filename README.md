@@ -169,13 +169,3 @@ File model bukan pipeline lengkap untuk data mentah. Penggunaan pada data baru m
 ## Keterbatasan
 
 Silhouette sekitar 0,35 menunjukkan pemisahan antar-cluster belum terlalu tegas. Dataset bersifat historis, sehingga penggunaan untuk keputusan bisnis saat ini memerlukan data yang lebih baru dan validasi tambahan. Nomor cluster merupakan label teknis; interpretasi segmen harus mengacu pada profilnya.
-
-## Checklist Pengumpulan
-
-- [ ] Notebook utama sudah diunggah ke repository.
-- [ ] Seluruh cell sudah dijalankan tanpa error dan output tersimpan.
-- [ ] Kode serta seluruh file yang diperlukan tersedia.
-- [ ] File input `customer_segmentation.csv` sudah disertakan untuk presentasi final.
-- [ ] Notebook untuk presentasi sudah diuji dengan file input lokal.
-- [ ] Cara menjalankan pada README sudah dicoba pada lingkungan yang digunakan.
-- [ ] Repository disetel publik, atau akun panitia sudah diberi akses.
